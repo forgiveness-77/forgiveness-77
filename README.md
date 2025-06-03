@@ -165,19 +165,6 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=forgiveness-77&show_icons=true&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=forgiveness-77&theme=radical&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forgiveness-77&layout=compact&theme=radical&hide_border=true" width="48%" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
 ### 💭 *"Sometimes I build, sometimes I break, but always with purpose."*
 
 <img src="https://komarev.com/ghpvc/?username=forgiveness-77&color=blueviolet&style=flat-square&label=Profile+Views" />
