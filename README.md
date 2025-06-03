@@ -2,7 +2,7 @@
 
 # 🌟 FORGIVENESS ✨ Peace ✌🏾 Love ❤️
 
-### *From Rwanda, building cool stuff with code and kindness* 🇷🇼
+### *Building cool stuff with code and kindness* 🇷🇼
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+%26+Embedded+Systems+Student;Cybersecurity+Explorer+%F0%9F%94%92;Dev+%7C+Maker+%7C+Musician+%7C+Cook+%F0%9F%8D%B3;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" />
 
