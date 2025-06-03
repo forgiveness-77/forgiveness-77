@@ -7,13 +7,13 @@
 
 ---
 
-### 🧠 Currently Pursuing:
+### Currently Pursuing:
 > Software Programming & Embedded Systems @ Rwanda Coding Academy 🇷🇼  
 > Motto: **"Build it. Break it. Fix it. Repeat."**
 
 ---
 
-### 💻 Tech Toolbox
+### Tech Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,php,nestjs,nodejs,express,fastapi,spring,postgres,mysql,mongodb,html,css,tailwind,linux,bash,git,vite,solidity,postman,swagger,arduino,blender,ai,ps,webflow" />
@@ -45,7 +45,7 @@
 
 ---
 
-### 🎮 Fun Bits
+### Fun Bits
 
 - 🏐 Volleyball smasher by day  
 - 🎧 Music lover always  
@@ -53,22 +53,12 @@
 
 ---
 
-### 🔗 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://github.com/forgiveness-77"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white"/></a>
   <a href="mailto:fpeacelove77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <!-- Add your socials here if you want -->
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
