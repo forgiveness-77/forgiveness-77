@@ -60,13 +60,13 @@
 <summary><b>🔧 Bonus Arsenal</b></summary>
 <br>
 
-\`\`\`
+```
 🛡️  Security Tools: Metasploit, Caido, Wireshark, Nmap
 🔌  Hardware: ESP8266, Arduino ecosystem
 🌐  Web Server: Apache
 🔗  Blockchain: Web3 development
 🔍  Reverse Engineering tools
-\`\`\`
+```
 
 </details>
 
