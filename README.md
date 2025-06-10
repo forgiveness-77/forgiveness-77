@@ -60,7 +60,7 @@
 <summary><b>🔧 Bonus Arsenal</b></summary>
 <br>
 
-```
+```bash
 🛡️  Security Tools: Metasploit, Caido, Wireshark, Nmap
 🔌  Hardware: ESP8266, Arduino ecosystem
 🌐  Web Server: Apache
