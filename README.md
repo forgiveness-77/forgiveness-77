@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 FORGIVENESS ✨ Peace ✌🏾 Love ❤️
+#  FORGIVENESS  Peace  Love 
 
 ### *Building cool stuff with code and kindness* 🇷🇼
 
@@ -10,20 +10,20 @@
 
 </div>
 
-## 🎓 Currently Pursuing
+##  Currently Pursuing
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
 
-**🏫 Education**
+** Education**
 > Software Programming & Embedded Systems  
 > @ Rwanda Coding Academy 🇷🇼
 
 </td>
 <td align="center" width="50%">
 
-**💭 Motto**
+** Motto**
 > *"Build it. Break it. Fix it. Repeat."*
 
 </td>
@@ -32,7 +32,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech Toolbox
+##  Tech Toolbox
 
 <div align="center">
 
@@ -61,18 +61,18 @@
 <br>
 
 ```bash
-🛡️  Security Tools: Metasploit, Caido, Wireshark, Nmap
-🔌  Hardware: ESP8266, Arduino ecosystem
-🌐  Web Server: Apache
-🔗  Blockchain: Web3 development
-🔍  Reverse Engineering tools
+  Security Tools: Metasploit, Caido, Wireshark, Nmap
+  Hardware: ESP8266, Arduino ecosystem
+  Web Server: Apache
+  Blockchain: Web3 development
+  Reverse Engineering tools
 ```
 
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎯 Focus Areas
+##  Focus Areas
 
 <div align="center">
 
@@ -97,11 +97,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📚 Currently Learning
+##  Currently Learning
 
 <div align="center">
 
-| 🔥 Hot Topics | 📖 Description |
+|    Hot Topics |   Description |
 |:-------------:|:----------------|
 | **Smart Contracts** | Building on Solidity for Web3 |
 | **Hardware Interfaces** | Low-level system programming |
@@ -111,40 +111,40 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💬 Ask Me About
+##  Ask Me About
 
 <div align="center">
 
 \`\`\`
-🔌 How to blink an LED the hacker way
-🚀 Building APIs that actually make sense  
-🍳 Cooking the perfect ~~payload~~ omelette
+ How to blink an LED the hacker way
+ Building APIs that actually make sense  
+ Cooking the perfect ~~payload~~ omelette
 \`\`\`
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎨 Fun Bits
+##  Fun Bits
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🏐_Volleyball-Smasher-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/_Volleyball-Smasher-orange?style=flat-square"/>
 <br><sub>By day</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎧_Music-Lover-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/_Music-Lover-purple?style=flat-square"/>
 <br><sub>Always</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/👨‍🍳_Chef-Squad-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/_Chef-Squad-green?style=flat-square"/>
 <br><sub>Even chapati rolls!</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎯_Coder-24/7-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/_Coder-24/7-blue?style=flat-square"/>
 <br><sub>With purpose</sub>
 </td>
 </tr>
@@ -154,7 +154,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 <div align="center">
 
@@ -165,10 +165,10 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-### 💭 *"Sometimes I build, sometimes I break, but always with purpose."*
+###  *"Sometimes I build, sometimes I break, but always with purpose."*
 
 <img src="https://komarev.com/ghpvc/?username=forgiveness-77&color=blueviolet&style=flat-square&label=Profile+Views" />
 
-**⭐ Star this repo if you found it interesting!**
+** Star this repo if you found it interesting!**
 
 </div>
